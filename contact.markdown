@@ -1,7 +1,8 @@
 ---
-layout: page
-title: About
-permalink: /about/contact
+#layout: page
+layout: default
+title: Contact
+permalink: /contact
 ---
 
 ## Contact me
